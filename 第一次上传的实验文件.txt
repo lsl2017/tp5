@@ -1,0 +1,7 @@
+进入git主页，创建一个仓库，名称自拟。
+桌面右键选择Git Gun Here
+进入页面选择Create New Repository然后填写上传文件目录
+手动确定Stage ChangedR，然后在白色框加上注释
+点击Remonte选择add、name填写库名称 Location填入仓库地址
+点击Commit等待变绿
+更新点push
